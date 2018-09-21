@@ -1,0 +1,12 @@
+GameSquares
+GameSquares.Cards
+GameSquares.Cards.ChanceCards
+GameSquares.Cards.CommunityChestCards
+GameSquares.Taxes
+Main
+gui
+gui.AdditionalWindows
+gui.AdditionalWindows.InputReaders
+gui.Board
+gui.Debug
+unittesting
